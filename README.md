@@ -1,9 +1,9 @@
 ### Hi there, I'm AhFuu 👋
 
-🌱 Cybersecurity student
-😄 Newbie/Beginner in CTF 
-⚡ Interested in Cryptography and Network Security
-📫 How to reach me: Twitter
+- 🌱 Cybersecurity student
+- 😄 Newbie/Beginner in CTF 
+- ⚡ Interested in Cryptography and Network Security
+- 📫 How to reach me: Twitter
 
 <!--
 **AhFuu711/AhFuu711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

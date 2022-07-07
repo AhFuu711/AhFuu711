@@ -2,7 +2,7 @@
 
 - 🌱 Cybersecurity student
 - 😄 Newbie/Beginner in CTF 
-- ⚡ Interested in Cryptography and Network Security
+- ⚡ Interested in Network Security and Forensics
 - 📫 How to reach me: Twitter
 
 <!--

@@ -1,4 +1,4 @@
-### Hi there, I'm AhFuu 👋
+### Hi there, I'm JunPeng a.k.a. arfuu 👋
 
 - 🌱 Cybersecurity student
 - 😄 Newbie/Beginner in CTF 
